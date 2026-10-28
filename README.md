@@ -1,14 +1,14 @@
-### Hi, I'm Vaidik 👋
+### Hi, I'm Vaidik
 
 **Senior Java Backend Engineer** with 7 years of experience building and running Spring Boot systems in production, for clients in the US, Australia and Singapore.
 
 I help startups and agencies **build, fix and maintain Java backends**:
 
-- 🧩 REST APIs and microservices with **Java 17/21 and Spring Boot 3**
-- 🛠️ Fixing bugs, slow endpoints and production issues in existing Spring Boot apps
-- ⚡ Event-driven processing with **Kafka** or **RabbitMQ**, real-time features with **WebSockets**
-- 🚀 Containerising and deploying with **Docker, Kubernetes, Jenkins** and **AWS**
-- ✅ Adding tests (**JUnit 5, Mockito**) so code stays safe to change
+- REST APIs and microservices with **Java 17/21 and Spring Boot 3**
+- Fixing bugs, slow endpoints and production issues in existing Spring Boot apps
+- Event-driven processing with **Kafka** or **RabbitMQ**, real-time features with **WebSockets**
+- Containerising and deploying with **Docker, Kubernetes, Jenkins** and **AWS**
+- Adding tests (**JUnit 5, Mockito**) so code stays safe to change
 
 ### Featured project
 
